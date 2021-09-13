@@ -1,3 +1,3 @@
 # Preliminary Website Work
 
-This is where it all begins.
+This is a dedicated space for establishing a personal portfolio.
